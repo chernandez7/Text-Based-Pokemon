@@ -1,6 +1,7 @@
 # Text-Based-Pokemon
 COMP 170 Final Project
 
+[![Build Status](https://travis-ci.org/chernandez7/Text-Based-Pokemon.png)](https://travis-ci.org/chernandez7/Text-Based-Pokemon)
 
 Instructions to run:
 
