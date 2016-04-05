@@ -1,0 +1,401 @@
+Absorb
+25 Grass 100% 25
+
+Acid
+20 Poison 100% 30
+
+Acid_Spray
+20 Poison 100% 20
+
+Poison_Fang
+25 Poison 100% 15
+
+Mud_Bomb
+35 Ground 85% 10
+
+Aurora_Beam
+45 Ice 100% 20
+
+Barrage
+15 Normal 85% 20
+
+Bind
+15 Normal 75% 20
+
+Bite
+35 Normal 100% 25
+
+Blizzard
+40 Ice 70% 5
+
+Body_Slam
+35 Normal 100% 15
+
+Bone_Club
+65 Ground 85% 20
+
+Bonemerang
+40 Ground 90% 10
+
+Bubble
+20 Water 100% 30
+
+BubbleBeam
+55 Water 100% 20
+
+Clamp
+35 Water 75% 10
+
+Comet_Punch
+18 Normal 85% 15
+
+Confusion
+50 Psychic 100% 25
+
+Signal_Beam
+35 Bug 100% 15
+
+Constrict
+10 Normal 100% 35
+
+Crabhammer
+25 Water 85% 10
+
+Crunch
+40 Dark 100% 15
+
+Cut
+40 Normal 95% 30
+
+Dig
+40 Ground 100% 10
+
+Dizzy_Punch
+35 Normal 100% 10
+
+Pluck
+30 Flying 100% 20
+
+Double_Edge
+60 Normal 100% 15
+
+Double_Kick
+30 Fighting 100% 30
+
+DoubleSlap
+15 Normal 85% 10
+
+Sand_Tomb
+35 Ground 85% 15
+
+Dream_Eater
+65 Psychic 100% 15
+
+Night_Slash
+35 Dark 100% 15
+
+Astonish
+15 Ghost 100% 15
+
+Drill_Peck
+45 Flying 100% 20
+
+Earthquake
+50 Ground 100% 10
+
+Egg_Bomb
+50 Normal 75% 10
+
+Ember
+40 Fire 100% 25
+
+Fire_Blast
+60 Fire 85% 5
+
+Fire_Punch
+40 Fire 100% 15
+
+Fire_Spin
+15 Fire 70% 15
+
+Flamethrower
+45 Fire 100% 15
+
+Fury_Attack
+15 Normal 85% 20
+
+Fury_Swipes
+54 Normal 80% 15
+
+Fury_Cutter
+40 Bug 95% 20
+
+Gust
+20 Normal 100% 35
+
+Headbutt
+40 Normal 100% 15
+
+Hi_Jump_Kick
+50 Fighting 90% 20
+
+Horn_Attack
+38 Normal 100% 25
+
+Hydro_Pump
+60 Water 80% 5
+
+Hyper_Beam
+50 Normal 90% 5
+
+Hyper_Fang
+40 Normal 90% 15
+
+Ice_Beam
+40 Ice 100% 10
+
+Air_Slash
+35 Flying 95% 20
+
+Ice_Punch
+35 Ice 100% 15
+
+Feint_Attack
+30 Dark 100% 20
+
+Jump_Kick
+45 Fighting 95% 25
+
+Karate_Chop
+25 Normal 100% 25
+
+Leech_Life
+20 Bug 100% 15
+
+Lick
+20 Ghost 100% 30
+
+Mega_Drain
+40 Grass 100% 15
+
+Mega_Kick
+60 Normal 75% 5
+
+Silver_Wind
+30 Bug 100% 5
+
+Mega_Punch
+40 Normal 85% 20
+
+Pay_Day
+20 Normal 100% 20
+
+Peck
+35 Flying 100% 35
+
+Petal_Dance
+45 Grass 100% 20
+
+Petal_Blizzard
+45 Grass 100% 15
+
+Giga_Drain
+35 Grass 100% 10
+
+Pin_Missile
+28 Bug 85% 20
+
+Poison_Sting
+15 Poison 100% 35
+
+Outrage
+60 Dragon 100% 10
+
+Pound
+20 Normal 100% 35
+
+Psybeam
+45 Psychic 100% 20
+
+Psychic
+40 Psychic 100% 10
+
+Psywave
+35 Normal 80% 15
+
+Quick_Attack
+40 Normal 100% 30
+
+Rage
+20 Normal 100% 20
+
+Razor_Leaf
+45 Grass 95% 25
+
+Razor_Wind
+40 Normal 100% 10
+
+Rock_Slide
+35 Rock 90% 10
+
+Rock_Throw
+25 Rock 90% 15
+
+Rolling_Kick
+30 Fighting 85% 15
+
+Scratch
+30 Normal 100% 35
+
+Skull_Bash
+40 Normal 100% 15
+
+Sky_Attack
+40 Flying 90% 5
+
+Slam
+40 Normal 75% 20
+
+Slash
+35 Normal 100% 20
+
+Sludge
+40 Poison 100% 20
+
+Smog
+20 Poison 70% 20
+
+Solarbeam
+60 Grass 100% 10
+
+Sucker_Punch
+40 Dark 100% 5
+
+Spike_Cannon
+20 Normal 100% 15
+
+Stomp
+35 Normal 100% 20
+
+Strength
+40 Normal 100% 15
+
+Struggle
+25 Normal 100% 1
+
+Submission
+40 Fighting 80% 25
+
+Surf
+40 Water 100% 15
+
+Swift
+30 Normal 100% 20
+
+Tackle
+35 Normal 95% 35
+
+Take_Down
+40 Normal 85% 20
+
+Hurricane
+50 Flying 70% 10
+
+Thrash
+45 Normal 100% 20
+
+Thunder
+60 Electric 70% 10
+
+Bulldoze
+30 Ground 100% 20
+
+Zen_Headbutt
+40 Psychic 90% 15
+
+Thunderbolt
+45 Electric 100% 15
+
+ThunderPunch
+40 Electric 100% 15
+
+Thundershock
+20 Electric 100% 30
+
+Tri_Attack
+40 Normal 100% 10
+
+Bug_Buzz
+45 Bug 100% 10
+
+Bug_Bite
+30 Bug 100% 20
+
+Twineedle
+25 Bug 100% 20
+
+Gunk_Shot
+60 Poison 80% 5
+
+Twister
+20 Dragon 100% 20
+
+Vicegrip
+35 Normal 100% 30
+
+Vine_Whip
+35 Grass 100% 15
+
+Waterfall
+40 Water 100% 15
+
+Pursuit
+20 Dark 100% 20
+
+Water_Gun
+40 Water 100% 25
+
+Water_Pulse
+30 Water 100% 20
+
+Aqua_Tail
+45 Physical 90% 10
+
+Acrobatics
+30 Flying 100% 15
+
+Wing_Attack
+30 Flying 100% 35
+
+Wrap
+15 Normal 85% 20
+
+Dragon_Claw
+40 Dragon 100% 15
+
+Dragon_Pulse
+45 Dragon 100% 10
+
+Zap_Cannon
+60 Electric 50% 5
+
+Power_Gem
+40 Rock 100% 20
+
+Ancient_Power
+60 Rock 100% 5
+
+Hex
+35 Ghost 100% 10
+
+X_Scissor
+40 Bug 100% 15
+
+Dark_Pulse
+40 Dark 100% 15
+
+Shadow_Ball
+40 Dark 100% 15
+
+Brine
+35 Water 100% 10
