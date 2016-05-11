@@ -21,7 +21,7 @@ namespace TextBasedPokemon
 			        if (bodyS != null)
 			        {
 			            bodyS = bodyS.ToLower ();
-			            var body = bodyS.Split (' ').ToList<string> ();
+			            var body = bodyS.Split (' ').ToList ();
 			            d [key] = body;
 			        }
 			    }

@@ -35,24 +35,24 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bag.cs" />
-    <Compile Include="Battlecaller.cs" />
-    <Compile Include="BattleSystem.cs" />
-    <Compile Include="ChampionBattle.cs" />
+    <Compile Include="Commands\Bag.cs" />
+    <Compile Include="Commands\Battlecaller.cs" />
+    <Compile Include="Commands\BattleSystem.cs" />
+    <Compile Include="Commands\ChampionBattle.cs" />
     <Compile Include="command.cs" />
     <Compile Include="command_mapper.cs" />
     <Compile Include="fio.cs" />
     <Compile Include="game.cs" />
     <Compile Include="GlobalVar.cs" />
-    <Compile Include="goer.cs" />
-    <Compile Include="helper.cs" />
-    <Compile Include="Map.cs" />
-    <Compile Include="Multiplayer.cs" />
+    <Compile Include="Commands\goer.cs" />
+    <Compile Include="Commands\helper.cs" />
+    <Compile Include="Commands\Map.cs" />
+    <Compile Include="Commands\Multiplayer.cs" />
     <Compile Include="place.cs" />
     <Compile Include="Pokemon.cs" />
-    <Compile Include="quitter.cs" />
-    <Compile Include="IResponse.cs" />
-    <Compile Include="Shop.cs" />
+    <Compile Include="Commands\quitter.cs" />
+    <Compile Include="Commands\IResponse.cs" />
+    <Compile Include="Commands\Shop.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="text_util.cs" />
     <Compile Include="Trainer.cs" />

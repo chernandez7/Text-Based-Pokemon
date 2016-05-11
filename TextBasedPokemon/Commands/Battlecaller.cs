@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace TextBasedPokemon
+namespace TextBasedPokemon.Commands
 {
 	/// Response to try to go to a new place.
 	public class Battler : IResponse

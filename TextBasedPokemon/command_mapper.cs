@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using TextBasedPokemon.Commands;
 
 namespace TextBasedPokemon
 {

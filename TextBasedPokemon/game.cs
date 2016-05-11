@@ -1,12 +1,11 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 
 namespace TextBasedPokemon
 {
-   
-	/// ASCII Art used from http://www.fiikus.net/?pokedex 
-   public class Game 
+
+    /// ASCII Art used from http://www.fiikus.net/?pokedex 
+    public class Game 
    {
       public Place CurrentPlace {get; set;} // controls public access
       private readonly Dictionary<string, Place> _places; //places can be found by name
