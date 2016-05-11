@@ -48,6 +48,7 @@
     <Compile Include="Commands\helper.cs" />
     <Compile Include="Commands\Map.cs" />
     <Compile Include="Commands\Multiplayer.cs" />
+    <Compile Include="Move.cs" />
     <Compile Include="place.cs" />
     <Compile Include="Pokemon.cs" />
     <Compile Include="Commands\quitter.cs" />
@@ -62,6 +63,9 @@
     <Content Include="Text Documents\Move_List.txt" />
     <Content Include="Text Documents\place_data.txt" />
     <Content Include="Text Documents\Pokemon_List.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
