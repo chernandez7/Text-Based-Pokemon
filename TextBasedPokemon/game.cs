@@ -20,23 +20,23 @@ namespace TextBasedPokemon
 			GlobalVar.NumbWins = 0;
 
 			var reader = Fio.OpenReader("Text Documents/Move_List.txt");
-			GlobalVar.MoveDir = Test.GetDictionary (reader);
+			GlobalVar.MoveDir = Reader.GetDictionary (reader);
 			reader.Close();
 
             var pokeReader = Fio.OpenReader("Text Documents/Pokemon_List.txt");
-			var pokeDir = Test.GetDictionary (pokeReader);
+			var pokeDir = Reader.GetDictionary (pokeReader);
 			pokeReader.Close();
 
 			//2 seperate lists are needed so that if both players have the same pokemon it would be a copy and not
 			//the EXACT same pokemon
-			GlobalVar.PokeList = Test.MakePokemonList (pokeDir);
-			GlobalVar.PokeList2 = Test.MakePokemonList (pokeDir);
+			GlobalVar.PokeList = Reader.MakePokemonList (pokeDir);
+			GlobalVar.PokeList2 = Reader.MakePokemonList (pokeDir);
 
 
 			Console.ForegroundColor = ConsoleColor.Black;
 
 			//Once variables are defined then the game begins!
-         Game game = new Game();
+         var game = new Game();
          game.Play();
 			Console.ResetColor();
 

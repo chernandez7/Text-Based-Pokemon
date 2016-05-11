@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TextBasedPokemon
 {
-	public static class Test
+	public static class Reader
 	{
 		/// Reads the dictionary contents and returns them.
 		public static Dictionary<string,List<string>> GetDictionary(StreamReader reader)

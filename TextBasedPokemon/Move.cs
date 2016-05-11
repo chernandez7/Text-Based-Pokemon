@@ -1,7 +1,4 @@
-﻿using System;
-using System.CodeDom;
-
-namespace TextBasedPokemon
+﻿namespace TextBasedPokemon
 {
 
 /*
@@ -12,7 +9,7 @@ namespace TextBasedPokemon
  * Special attacks were those having the Fire, Water, Electric, Grass, Ice, Psychic, Dragon or Dark type.
 */
 
-    class Move
+    public class Move
     {
         private readonly string _name;
         private readonly string _element;
@@ -20,8 +17,8 @@ namespace TextBasedPokemon
         private int _currentPp;
         private int _power;
         private int _accuracy;
-        private  bool _isSpecial;
-        private  bool _isStatus;
+        private bool _isSpecial;
+        private bool _isStatus;
 
         public Move(string name, int maxPp, int power, int accuracy,
             string element, bool isSpecial, bool isStatus) {
@@ -42,14 +39,14 @@ namespace TextBasedPokemon
         public string GetElement() { return _element; }
 
         // Get Max Power Points
-        public int GetMaxPP() { return _maxPp; }
+        public int GetMaxPp() { return _maxPp; }
 
         // Get Current PP
-        public int GetCurrentPP() { return _currentPp; }
+        public int GetCurrentPp() { return _currentPp; }
 
         // Set Current PP
-        public void SetCurrentPP(int newPP) {
-            _currentPp = newPP;
+        public void SetCurrentPp(int newPp) {
+            _currentPp = newPp;
         }
 
         // Add to current PP
@@ -98,16 +95,19 @@ namespace TextBasedPokemon
             _accuracy = value;
         }
 
+        // Get Special bool
         public bool GetIsSpecial() { return _isSpecial; }
 
+        // Set Special bool
         public void SetIsSpecial(bool value) {
             _isSpecial = value;
         }
 
+        // Get Status bool
         public bool GetIsStatus() { return _isStatus; }
 
-        public void SetIsStatus(bool value)
-        {
+        // Set Status bool
+        public void SetIsStatus(bool value) {
             _isStatus = value;
         }
     }

@@ -54,7 +54,7 @@
     <Compile Include="Commands\quitter.cs" />
     <Compile Include="Commands\IResponse.cs" />
     <Compile Include="Commands\Shop.cs" />
-    <Compile Include="Test.cs" />
+    <Compile Include="Reader.cs" />
     <Compile Include="text_util.cs" />
     <Compile Include="Trainer.cs" />
     <Compile Include="ui.cs" />
